@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Malin-Malin
 - 👀 I’m interested in learning how to be in two places at once!
-- 🌱 I’m currently learning FED
+- 🌱 I’m currently learning Front-end at @noroff
 - 💞️ I’m looking to collaborate on my ability to learn and master skils
-- 📫 How to reach me Teams - Linkedin
+- 📫 How to reach me Teams - [Linkedin](www.linkedin.com/in/malin-skrettingland)
 - ⚡ Fun fact: Im a mom (two boys) married, full time job and full time student. Wish me luck! 
 - Check out my [Portfolio Website](https://portfolio-malin-malin.netlify.app/)
 <!---
